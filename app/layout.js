@@ -1,0 +1,1 @@
+import "./globals.css"; export const metadata={title:"Gaelic 24",description:"24-shot Gaelic football challenge"}; export default function RootLayout({children}){return <html lang="en"><body>{children}</body></html>}
